@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Sánchez Martínez</h1>
 <h3 align="center">A passionate Front-End Developer | Graphic Designer</h3>
 
-- 🔭 I’m currently working on Mobyfox [Harry Potter Phone Cases](https://mobyfox.com/products/harry-potter-gryffindor-phone-case-iphone-14-pro-max)
+- 🔭 I’m currently working on Mobyfox (https://mobyfox.com/products/harry-potter-gryffindor-phone-case-iphone-14-pro-max)
 
 - 🌱 I’m currently learning Javascript, PHP and React **to strengthen my skills as frontend developer**
 
